@@ -1,0 +1,99 @@
+Metrics received: [CPU_STATS] Base64 Encoding: 3353 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 3448 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 2736 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1498 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 1736 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1472 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1736 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1694 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1433 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1434 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1434 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1434 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1468 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1434 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1484 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1486 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1486 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1486 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 3442 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 3206 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 3870 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 3628 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 2632 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 4093 us
+
+Metrics received: [CPU_STATS] Base64 Encoding: 3883 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 4052 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 4082 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 3964 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 2079 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1857 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1842 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1824 us
+
+Metrics received: CPU_STATS] Base64 Encoding: 1431 us 
